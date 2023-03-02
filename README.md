@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5823wdnrlynw
+- 👋 Hi, I’m Medha!
 
 I want to showcase my resume project files here to display my curiousity / creative spark that ignites my love of business intelligence, data analytics, data science & a complex variety of other stuff I'm into.
 
